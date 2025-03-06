@@ -4,7 +4,7 @@
   "version": "1.14.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "homepage": "https://github.com/79887143/koishi-plugin-tmp-bot",
+  "homepage": "https://github.com/1665803360/koishi-plugin-tmp-bot",
   "files": [
     "lib",
     "dist"
